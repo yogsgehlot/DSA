@@ -12,6 +12,7 @@ class avg{
 
     }
     void findavg(){
+        //dfgdfgfxvx
         
     }
 };
